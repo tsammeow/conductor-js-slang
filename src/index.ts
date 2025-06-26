@@ -1,4 +1,4 @@
 import { initialise } from "conductor/dist/conductor/runner/util/";
-import { MyEvaluator } from "./MyEvaluator";
+import { JsSlangEvaluator } from "./JsSlangEvaluator";
 
-const {runnerPlugin, conduit} = initialise(MyEvaluator);
+const {runnerPlugin, conduit} = initialise(JsSlangEvaluator);
