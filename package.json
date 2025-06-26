@@ -29,7 +29,7 @@
     "@rollup/plugin-typescript": "^12.1.2",
     "@types/path-browserify": "^1.0.1",
     "conductor": "https://github.com/source-academy/conductor.git#0.2.1",
-    "js-slang": "https://github.com/tsammeow/js-slang-lean.git",
+    "js-slang": "https://github.com/tsammeow/js-slang-lean.git#c6081e58f34a6cb1c0dfab2d8e169cd4fae5144a",
     "path-browserify": "^1.0.1",
     "rollup": "^4.34.1",
     "rollup-plugin-polyfill-node": "^0.13.0",
